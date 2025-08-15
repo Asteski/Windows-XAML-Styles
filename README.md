@@ -6,6 +6,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 * Styles for UWP Apps
   * [Quick Actions](#quick-actions)
   *  `WIP` [File Explorer](#file-explorer)
+  *  `WIP` [Start Menu](#start-menu)
 * Styles Info
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * `WIP` [Further configuration](#further-configuration)
@@ -15,6 +16,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * [Windhawk](https://github.com/ramensoftware/windhawk) 
   * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
 * Future plans
+  * `WIP` [Windows 11 File Explorer Styler themes](#windows-11-start-menu-styler-themes)
   * `WIP` [Windows 11 Start Menu Styler themes](#windows-11-start-menu-styler-themes)
 
 ## Quick Actions
