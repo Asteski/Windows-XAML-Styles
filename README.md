@@ -4,10 +4,10 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 
 ## Table of contents
 * Styles for UWP Apps
-  * [Windhawk](https://github.com/ramensoftware/windhawk) 
   * [Quick Actions](#quick-actions)
   *  `WIP` [File Explorer](#file-explorer)
 * Info
+  * [Windhawk](https://github.com/ramensoftware/windhawk) 
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * `WIP` [Further configuration](#further-configuration)
   * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
