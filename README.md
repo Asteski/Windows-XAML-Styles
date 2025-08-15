@@ -14,9 +14,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 
 ## Quick Actions
 
-Windhawk Mod that needs to be installed for Quick Actions styles:
-
-[Notification Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
 [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Small.json)
 
