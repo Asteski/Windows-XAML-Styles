@@ -47,9 +47,5 @@
   "controlStyles[16].target": "StackPanel#PrimaryAndSecondaryTextContainer > TextBlock#TitleText",
   "controlStyles[16].styles[0]": "TextAlignment=Center",
   "controlStyles[17].target": "StackPanel#PrimaryAndSecondaryTextContainer > TextBlock#SubtitleText",
-  "controlStyles[17].styles[0]": "TextAlignment=Center",
-  "theme": "",
-  "styleConstants[0]": "",
-  "resourceVariables[0].variableKey": "",
-  "resourceVariables[0].value": ""
+  "controlStyles[17].styles[0]": "TextAlignment=Center"
 }

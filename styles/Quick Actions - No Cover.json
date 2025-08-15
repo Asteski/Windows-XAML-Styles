@@ -46,9 +46,5 @@
   "controlStyles[14].target": "Windows.UI.Xaml.Controls.TextBlock#TitleText",
   "controlStyles[14].styles[0]": "HorizontalAlignment=1",
   "controlStyles[15].target": "Windows.UI.Xaml.Controls.TextBlock#SubtitleText",
-  "controlStyles[15].styles[0]": "HorizontalAlignment=1",
-  "theme": "",
-  "styleConstants[0]": "",
-  "resourceVariables[0].variableKey": "",
-  "resourceVariables[0].value": ""
+  "controlStyles[15].styles[0]": "HorizontalAlignment=1"
 }
