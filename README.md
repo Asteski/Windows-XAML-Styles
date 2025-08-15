@@ -5,10 +5,11 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 ## Table of contents
 * Styles for UWP Apps
   * [Quick Actions](#quick-actions)
-  * [File Explorer](#file-explorer)
+  *  `WIP` [File Explorer](#file-explorer)
 * Info
-  * [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
-  * [Further configuration](#further-configuration)
+  * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
+  * `WIP` [Further configuration](#further-configuration)
+  * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
 
 
 ## Quick Actions
@@ -17,14 +18,20 @@ Windhawk Mod that needs to be installed for Quick Actions styles:
 
 [Notification Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
-[Quick Actions - Small]()
+[Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Small.json)
 
-[Quick Actions - Medium]()
+![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Small.png)
 
-[Quick Actions - Large]()
+[Quick Actions - Medium](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Medium.json)
 
-[Quick Actions - No Cover]()
+![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Small.png)
 
-## File Explorer
+[Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Large.json)
 
-`WIP`
+![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Small.png)
+
+[Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20No%20Cover.json)
+
+![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Small.png)
+
+These styles are recommended for enthusiasts who like their taskbar positioned at the top.
