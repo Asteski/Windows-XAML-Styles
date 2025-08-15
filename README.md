@@ -12,7 +12,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * `WIP` [Further configuration](#further-configuration)
   * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
-  * `WIP` [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
+  * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
 
 ## Quick Actions
 
