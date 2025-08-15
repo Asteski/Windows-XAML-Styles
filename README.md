@@ -37,3 +37,7 @@ Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 No
 ## File Explorer
 
 `WIP`
+
+## Start Menu
+
+`WIP`
