@@ -22,14 +22,14 @@ Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 No
 
 [Quick Actions - Medium](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Medium.json)
 
-[![Quick Actions - Medium](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Medium.png)
+![Quick Actions - Medium](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Medium.png)
 
 [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Large.json)
 
-[![Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Large.png)
+![Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Large.png)
 
 [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20No%20Cover.json)
 
-[![Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20No%20Cover.png)
+![Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20No%20Cover.png)
 
 These styles are recommended for enthusiasts who like their taskbar positioned at the top.
