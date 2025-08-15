@@ -6,19 +6,20 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 * Styles for UWP Apps
   * [Quick Actions](#quick-actions)
   *  `WIP` [File Explorer](#file-explorer)
-* Info
-  * [WinMac](https://github.com/Asteski/WinMac)
-  * [Windhawk](https://github.com/ramensoftware/windhawk) 
+* Styles Info
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * `WIP` [Further configuration](#further-configuration)
   * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
+* Additional Info
+  * [WinMac](https://github.com/Asteski/WinMac)
+  * [Windhawk](https://github.com/ramensoftware/windhawk) 
   * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
 * Future plans
   * `WIP` [Windows 11 Start Menu Styler themes](#windows-11-start-menu-styler-themes)
 
 ## Quick Actions
 
-Quick actions styles main focus are on merging both regions - volume and media control regions into a single region. Recommended for enthusiasts who like their taskbar positioned at the top.
+Quick actions styles main focus are on merging both regions - volume and media control regions into a si\ngle region. Recommended for enthusiasts who like their taskbar positioned at the top.
 
 Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
