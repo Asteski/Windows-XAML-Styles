@@ -21,21 +21,21 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 
 ## Quick Actions
 
-Quick actions styles main focus are on merging both regions - volume and media control regions into a single region. Recommended for enthusiasts who like their taskbar positioned at the top.
+Quick actions styles main focus are on merging both regions - volume and media control regions into a si\ngle region. Recommended for enthusiasts who like their taskbar positioned at the top.
 
 Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
-[Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Small.json)
+[Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
-![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Small.png)
+![Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.png)
 
-[Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Large.json)
+[Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
-![Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20Large.png)
+![Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.png)
 
-[Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20No%20Cover.json)
+[Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.json)
 
-![Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20No%20Cover.png)
+![Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.png)
 
 ## File Explorer
 
