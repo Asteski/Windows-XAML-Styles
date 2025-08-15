@@ -14,6 +14,8 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 
 ## Quick Actions
 
+Quick actions styles main focus are on merging both regions - volume and media control regions into a single region. Recommended for enthusiasts who like their taskbar positioned at the top.
+
 Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
 [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20Small.json)
@@ -27,8 +29,6 @@ Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 No
 [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Quick%20Actions%20-%20No%20Cover.json)
 
 ![Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Quick%20Actions%20-%20No%20Cover.png)
-
-These styles are recommended for enthusiasts who like their taskbar positioned at the top.
 
 ## File Explorer
 
