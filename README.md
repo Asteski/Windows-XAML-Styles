@@ -13,6 +13,8 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * `WIP` [Further configuration](#further-configuration)
   * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
   * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
+* Future plans
+  * `WIP` [Windows 11 Start Menu Styler themes](#windows-11-start-menu-styler-themes)
 
 ## Quick Actions
 
