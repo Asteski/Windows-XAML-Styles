@@ -5,7 +5,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 ## Table of contents
 * Styles for UWP Apps
   * [Quick Actions](#quick-actions)
-  *  `WIP` [File Explorer](#file-explorer)
+  * [File Explorer](#file-explorer)
   *  `WIP` [Start Menu](#start-menu)
 * Styles Info
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
@@ -24,7 +24,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 
 Quick actions styles main focus are on merging both volume and media control regions into a single region. Recommended for enthusiasts who like their taskbar positioned at the top, and using 3rd party taskbars like StartAllBack or ExplorerPatcher.
 
-Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+Windhawk mod that needs to be installed for Quick Actions styles: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
 [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
@@ -40,7 +40,17 @@ Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 No
 
 ## File Explorer
 
-`WIP`
+File Explorer styles are a hybrid of legacy and modern tooolbar areas, with addition of enforcing transparency effect on command bar.
+
+Windhawk mods that needs to be installed for File Explorer style: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler), [Classic Explorer navigation bar](https://windhawk.net/mods/explorer-frame-classic)
+
+[File Explorer]()
+
+[!File Explorer]()
+
+[File Explorer - No Command Bar]()
+
+[!File Explorer - No Command Bar]()
 
 ## Start Menu
 
