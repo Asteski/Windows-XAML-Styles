@@ -16,7 +16,6 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * [Windhawk](https://github.com/ramensoftware/windhawk) 
   * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
 * Future plans
-  * [Windows 11 File Explorer Styler themes](#file-explorer)
   * [Windows 11 Start Menu Styler themes](#start-menu)
   * Option to hide screen brigthness slider
 
