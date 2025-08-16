@@ -44,13 +44,13 @@ File Explorer styles are a hybrid of legacy and modern tooolbar areas, with addi
 
 Windhawk mods that needs to be installed for File Explorer style: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler), [Classic Explorer navigation bar](https://windhawk.net/mods/explorer-frame-classic)
 
-[File Explorer]()
+[File Explorer](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer.json)
 
-[!File Explorer]()
+[!File Explorer](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer.png)
 
-[File Explorer - No Command Bar]()
+[File Explorer - No Command Bar](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.json)
 
-[!File Explorer - No Command Bar]()
+[!File Explorer - No Command Bar](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.png)
 
 ## Start Menu
 
