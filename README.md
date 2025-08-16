@@ -40,7 +40,7 @@ Windhawk mod that needs to be installed for Quick Actions styles: [Windows 11 No
 
 ## File Explorer
 
-File Explorer styles are a hybrid of legacy and modern tooolbar areas, with additional tweaks for command bar like:
+File Explorer styles are a hybrid of legacy and modern toolbar areas, with additional tweaks for command bar like:
 - enforce transparency effect
 - reduced height
 - disabled border
