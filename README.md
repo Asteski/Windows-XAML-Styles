@@ -9,7 +9,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   *  `WIP` [Start Menu](#start-menu)
 * Styles Info
   * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
-  * `WIP` [Further configuration](#further-configuration)
+  * [Further configuration](#further-configuration)
   * `WIP` [Taskbar tips and tricks](#taskbar-tips-and-tricks)
 * Additional Info
   * [WinMac](https://github.com/Asteski/WinMac)
