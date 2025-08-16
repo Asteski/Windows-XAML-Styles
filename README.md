@@ -46,11 +46,11 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 [File Explorer](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer.json)
 
-[!File Explorer](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer.png)
+![File Explorer](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer.png)
 
 [File Explorer - No Command Bar](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.json)
 
-[!File Explorer - No Command Bar](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.png)
+![File Explorer - No Command Bar](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.png)
 
 ## Start Menu
 
