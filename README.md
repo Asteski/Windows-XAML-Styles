@@ -50,7 +50,7 @@ Windhawk Mod that needs to be installed for Quick Actions styles: [Windows 11 No
 
 ### Quick Actions
 
-Enable Toggles Group by setting *Visibility=0* for targets *Grid > GridView#RootGridView* and *Windows.UI.Xaml.Controls.ContentControl#TogglesGroup*.
+Enable Toggles Group by setting *"Visibility=0"* for targets *"Grid > GridView#RootGridView"* and *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
 
 - *Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
