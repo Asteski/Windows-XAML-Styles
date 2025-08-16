@@ -1,5 +1,4 @@
 {
-  "theme": "",
   "controlStyles[0].target": "Grid#CommandBarControlRootGrid",
   "controlStyles[0].styles[0]": "BorderThickness=0,0,0,0",
   "controlStyles[0].styles[1]": "Background:=<SolidColorBrush Color=\"{ThemeResource LayerOnMicaBaseAltFillColorDefault}\"/>",
