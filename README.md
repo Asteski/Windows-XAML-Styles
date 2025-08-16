@@ -40,9 +40,9 @@ Windhawk mod that needs to be installed for Quick Actions styles: [Windows 11 No
 ## File Explorer
 
 File Explorer styles are a hybrid of legacy and modern toolbar areas, with additional tweaks for command bar like:
-- enforce transparency effect
-- reduced height
-- disabled border
+* enforce transparency effect
+* reduced height
+* disabled border
 
 Windhawk mods that needs to be installed for File Explorer style: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler), [Classic Explorer navigation bar](https://windhawk.net/mods/explorer-frame-classic)
 
@@ -64,18 +64,18 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 Enable Toggles Group by setting *"Visibility=0"* for targets *"Grid > GridView#RootGridView"* and *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
 
-- *Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
+*Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
 ![Quick Actions - TogglesGroup - Height=100](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20100.png)
 
-- *Height=200* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
+*Height=200* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
 ![Quick Actions - TogglesGroup - Height=200](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20200.png)
 
-- *Height=290* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
+*Height=290* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
 ![Quick Actions - TogglesGroup - Height=290](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20290.png)
 
-- *Height=Auto* showed on [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.json)
+*Height=Auto* showed on [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.json)
 
 ![Quick Actions - TogglesGroup - Height=Auto](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20Auto.png)
