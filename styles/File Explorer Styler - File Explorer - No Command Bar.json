@@ -4,5 +4,5 @@
   "controlStyles[0].styles[1]": "Background:=<SolidColorBrush Color=\"{ThemeResource LayerOnMicaBaseAltFillColorDefault}\"/>",
   "controlStyles[1].target": "CommandBar#FileExplorerCommandBar",
   "controlStyles[1].styles[0]": "Background=Transparent",
-  "explorerFrameContainerHeight": 0
+  "explorerFrameContainerHeight": 59
 }
