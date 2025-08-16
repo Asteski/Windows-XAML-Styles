@@ -54,16 +54,16 @@ Enable Toogles Group by settings Visibility = 0 for targets *Grid > GridView#Roo
 
 *Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
-![Notification Center Styler - Quick Actions - TogglesGroup - 100](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.png)
+![Notification Center Styler - Quick Actions - TogglesGroup - 100](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20100.png)
 
 *Height=200* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
-![Notification Center Styler - Quick Actions - TogglesGroup - 200](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.png)
+![Notification Center Styler - Quick Actions - TogglesGroup - 200](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20200.png)
 
 *Height=290* showed on [Quick Actions - Small](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.json)
 
-![Notification Center Styler - Quick Actions - TogglesGroup - 290](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.png)
+![Notification Center Styler - Quick Actions - TogglesGroup - 290](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20290.png)
 
 *Height=Auto* showed on [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.json)
 
-![Notification Center Styler - Quick Actions - TogglesGroup - Auto](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Small.png)
+![Notification Center Styler - Quick Actions - TogglesGroup - Auto](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20Auto.png)
