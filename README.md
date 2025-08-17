@@ -84,6 +84,6 @@ Enable Toggles Group by setting *"Visibility=0"* for targets *"Grid > GridView#R
 
 Show Tabs Only by disabling *Classic Explorer navigation bar* mod and setting *explorerFrameContainerHeight=41*.
 
-[File Explorer - Tabs Only JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.json)
+[File Explorer - Tabs Only JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20Tabs%20Only.json)
 
-![File Explorer - Tabs Only](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20No%20Command%20Bar.png)
+![File Explorer - Tabs Only](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20Tabs%20Only.png)
