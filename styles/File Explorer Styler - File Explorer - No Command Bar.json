@@ -5,3 +5,4 @@
   "controlStyles[1].target": "CommandBar#FileExplorerCommandBar",
   "controlStyles[1].styles[0]": "Background=Transparent",
   "explorerFrameContainerHeight": 60
+}
