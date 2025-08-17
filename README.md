@@ -76,9 +76,7 @@ Enable Toggles Group by setting *"Visibility=0"* for targets *"Grid > GridView#R
 
 ![Quick Actions - TogglesGroup - Height=290](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20290.png)
 
-*Height=Auto* showed on [Quick Actions - No Cover](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20No%20Cover.json)
-
-![Quick Actions - TogglesGroup - Height=Auto](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20Auto.png)
+*Height=Auto* shows all available toggles.
 
 ### Quick Actions
 
