@@ -78,7 +78,7 @@ Enable Toggles group by setting *"Visibility=0"* for targets *"Grid > GridView#R
 
 *Height=Auto* shows all available toggles.
 
-### Quick Actions
+### File Explorer
 
 Show Tabs only by disabling *Classic Explorer navigation bar* mod and setting *explorerFrameContainerHeight=41*.
 
