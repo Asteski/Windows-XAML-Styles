@@ -1,8 +1,6 @@
 {
-  "controlStyles[0].target": "Grid#CommandBarControlRootGrid",
-  "controlStyles[0].styles[0]": "BorderThickness=0,0,0,0",
-  "controlStyles[0].styles[1]": "Background:=<SolidColorBrush Color=\"{ThemeResource LayerOnMicaBaseAltFillColorDefault}\"/>",
-  "controlStyles[1].target": "CommandBar#FileExplorerCommandBar",
-  "controlStyles[1].styles[0]": "Background=Transparent",
+  "controlStyles[1].target": "Microsoft.UI.Xaml.Controls.ContentPresenter > Microsoft.UI.Xaml.Controls.StackPanel > Microsoft.UI.Xaml.Controls.TextBlock",
+  "controlStyles[1].styles[0]": "FontFamily=Segoe UI, Segoe Fluent Icons",
+  "controlStyles[1].styles[1]": "FontWeight=Normal",
   "explorerFrameContainerHeight": 41
 }
