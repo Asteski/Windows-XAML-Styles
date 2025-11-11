@@ -48,5 +48,5 @@
   "controlStyles[15].target": "Windows.UI.Xaml.Controls.TextBlock#SubtitleText",
   "controlStyles[15].styles[0]": "HorizontalAlignment=1",
   "controlStyles[16].target": "Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]",
-  "controlStyles[16].styles[0]": "Visibility=0",
+  "controlStyles[16].styles[0]": "Visibility=0"
 }
