@@ -67,11 +67,11 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 #### Disable brightness slider
 
-Disable brightness slider by changing _Visibility_ attribute to 1 for target _"Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]"_.
+Disable brightness slider by setting *"Visibility=1"* for target _"Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]"_.
 
 #### Enable Toggles group
 
-Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
+Enable Toggles group by setting *"Visibility=0"* for target *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
 
 *Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
