@@ -10,6 +10,9 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 * Styles Info
   * [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * [Further configuration](#further-configuration)
+    * [Disable brightness slider in Quick Actions flyout](#disable-brightness-slider)
+    * [Enable toggles in Quick Actions flyout](#enable-toggles-group)
+    * [Show only tabs in File Explorer](#enable-toggles-group)
 * Additional Info
   * [WinMac](https://github.com/Asteski/WinMac)
   * [Windhawk](https://github.com/ramensoftware/windhawk) 
@@ -60,7 +63,11 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 ### Quick Actions
 
+#### Disable brightness slider
+
 Disable brightness slider by changing _Visibility_ attribute to 1 for target _"Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]"_.
+
+#### Enable Toggles group
 
 Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
 
@@ -80,7 +87,9 @@ Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.
 
 ### File Explorer
 
-Show Tabs only by disabling *Classic Explorer navigation bar* mod and setting *explorerFrameContainerHeight=41*.
+#### Show tabs only
+
+Show tabs only by disabling *Classic Explorer navigation bar* mod and setting *explorerFrameContainerHeight=41*.
 
 [File Explorer - Tabs Only JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20Tabs%20Only.json)
 
