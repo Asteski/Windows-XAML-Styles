@@ -10,9 +10,11 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 * Styles Info
   * [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * [Further configuration](#further-configuration)
-    * [Disable brightness slider in Quick Actions flyout](#disable-brightness-slider)
-    * [Enable toggles in Quick Actions flyout](#enable-toggles-group)
-    * [Show only tabs in File Explorer](#enable-toggles-group)
+    * Quick Actions flyout:
+      * [Disable brightness slider](#disable-brightness-slider)
+      * [Enable toggles group](#enable-toggles-group)
+    * File Explorer:
+      * [Show tabs only](#enable-toggles-group)
 * Additional Info
   * [WinMac](https://github.com/Asteski/WinMac)
   * [Windhawk](https://github.com/ramensoftware/windhawk) 
