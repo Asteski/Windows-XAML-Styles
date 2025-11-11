@@ -16,7 +16,6 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * [Additional utilities](https://github.com/Asteski/WinMac/wiki/Additional-utilities)
 * Future plans
   * [Windows 11 Start Menu Styler themes](#start-menu)
-  * Option to hide screen brigthness slider
 
 ## Quick Actions
 
@@ -61,7 +60,7 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 ### Quick Actions
 
-Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
+1. Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.ContentControl#TogglesGroup"*.
 
 *Height=100* showed on [Quick Actions - Large](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20Large.json)
 
@@ -76,6 +75,9 @@ Enable Toggles group by setting *"Visibility=0"* for *"Windows.UI.Xaml.Controls.
 ![Quick Actions - TogglesGroup - Height=290](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Notification%20Center%20Styler%20-%20Quick%20Actions%20-%20TogglesGroup%20-%20290.png)
 
 *Height=Auto* shows all available toggles.
+
+2. Disable brightness slider by setting Visibility attribute to 1 in target _"Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]",
+  "controlStyles[16].styles[0]"_.
 
 ### File Explorer
 
