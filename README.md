@@ -8,7 +8,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
   * [File Explorer](#file-explorer)
   *  `WIP` [Start Menu](#start-menu)
 * Styles Info
-  * `WIP` [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
+  * [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * [Further configuration](#further-configuration)
 * Additional Info
   * [WinMac](https://github.com/Asteski/WinMac)
@@ -84,3 +84,14 @@ Show Tabs only by disabling *Classic Explorer navigation bar* mod and setting *e
 [File Explorer - Tabs Only JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20Tabs%20Only.json)
 
 ![File Explorer - Tabs Only](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/File%20Explorer%20Styler%20-%20File%20Explorer%20-%20Tabs%20Only.png)
+
+## How to apply Custom XAML Styles
+
+- Launch the Windhawk app.
+- Click the "Explore" button.
+- Find and install the "Windows 11 [process] Styler" mod.
+- Go to the mod's "Advanced" tab.
+- Clear everything in the "Mod settings" text box.
+- Copy the JSON code from this GitHub repo.
+- Paste the JSON code into the "Mod settings" text box.
+- Click "Save", and the changes take effect instantly.
