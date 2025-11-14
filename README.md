@@ -69,7 +69,7 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 Disable brightness slider by setting *"Visibility=1"* for target _"Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]"_.
 
-_* be aware that this method also hides sound output list, as the target is not defined precisely enough ot mitigate this. I will provide a fix to this ASAP._
+_* be aware that this method also hides sound output list, as the target is not defined precisely enough to mitigate this. I will provide a fix to this ASAP._
 
 #### Enable Toggles group
 
