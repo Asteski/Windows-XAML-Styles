@@ -47,5 +47,7 @@
   "controlStyles[16].target": "StackPanel#PrimaryAndSecondaryTextContainer > TextBlock#TitleText",
   "controlStyles[16].styles[0]": "TextAlignment=Center",
   "controlStyles[17].target": "StackPanel#PrimaryAndSecondaryTextContainer > TextBlock#SubtitleText",
-  "controlStyles[17].styles[0]": "TextAlignment=Center"
+  "controlStyles[17].styles[0]": "TextAlignment=Center",
+  "controlStyles[16].target": "Windows.UI.Xaml.Controls.ScrollContentPresenter#ScrollContentPresenter > ItemsPresenter > ItemsStackPanel > GridViewItem[1]",
+  "controlStyles[16].styles[0]": "Visibility=0"
 }
