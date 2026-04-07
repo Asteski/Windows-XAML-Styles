@@ -6,7 +6,7 @@ A collection of my custom Windows XAML styles for Windhawk's various XAML styler
 * Styles for UWP Apps
   * [Quick Actions](#quick-actions)
   * [File Explorer](#file-explorer)
-  *  `WIP` [Start Menu](#start-menu)
+  * [Start Menu](#start-menu)
 * Styles Info
   * [How to apply Custom XAML Styles](#how-to-apply-custom-xaml-styles)
   * [Further configuration](#further-configuration)
@@ -59,7 +59,11 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 ## Start Menu
 
-`WIP`
+Start Menu used as an App Launcher only, without search field, recommended section and etc.
+
+[App Launcher - JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Start%20Menu%20Styler%20-%20Start%20Menu%20-%20App%20Launcher.json)
+
+![Start Menu - App Launcher](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Startr%20Menur%20Stylerr%20-r%20Appr%20Launcher)
 
 ## Further configuration
 
