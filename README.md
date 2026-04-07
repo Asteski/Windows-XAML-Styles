@@ -61,7 +61,7 @@ Windhawk mods that needs to be installed for File Explorer style: [Windows 11 Fi
 
 Start Menu used as an App Launcher only, without search field, recommended section and etc.
 
-I recommend additional mods to customize your Start Menu even more: [Pinned Only on Start Menu](https://windhawk.net/mods/pinned-only-on-start-menu), [Start Menu Power Buttons](https://windhawk.net/mods/win11-power-buttons) or  [Start Menu Size ](https://windhawk.net/mods/start-menu-size).
+I recommend additional mods to customize your Start Menu even more: [Pinned Only on Start Menu](https://windhawk.net/mods/pinned-only-on-start-menu), [Start Menu Power Buttons](https://windhawk.net/mods/win11-power-buttons),  [Start Menu Size ](https://windhawk.net/mods/start-menu-size) or [Block Start Menu Hosts](https://windhawk.net/mods/block-windows-startmenu-and-hosts) to disable Search Host from triggering accidently.
 
 [App Launcher - JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Start%20Menu%20Styler%20-%20Start%20Menu%20-%20App%20Launcher.json)
 
