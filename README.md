@@ -65,7 +65,7 @@ I recommend additional mods to customize your Start Menu even more: [Pinned Only
 
 [App Launcher - JSON code](https://github.com/Asteski/Windows-XAML-Styles/blob/main/styles/Start%20Menu%20Styler%20-%20Start%20Menu%20-%20App%20Launcher.json)
 
-![Start Menu - App Launcher](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Startr%20Menu%20Styler%20-%20Appr%20Launcher.png)
+![Start Menu - App Launcher](https://github.com/Asteski/Windows-XAML-Styles/blob/main/img/Start%20Menu%20Styler%20-%20App%20Launcher.png)
 
 ## Further configuration
 
